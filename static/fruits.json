@@ -1,0 +1,704 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "A crisp and juicy fruit with various colors.",
+      "price": 0.75,
+      "kg": 1.5
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "description": "A sweet and elongated fruit with a yellow peel.",
+      "price": 0.5,
+      "kg": 2.0
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "description": "A citrus fruit with a bright orange color and juicy segments.",
+      "price": 0.6,
+      "kg": 1.8
+    },
+    {
+      "id": 4,
+      "name": "Mango",
+      "description": "A tropical fruit with a sweet and fragrant flavor.",
+      "price": 1.2,
+      "kg": 1.2
+    },
+    {
+      "id": 5,
+      "name": "Watermelon",
+      "description": "A large and refreshing fruit with a juicy red flesh.",
+      "price": 2.0,
+      "kg": 4.5
+    },
+    {
+      "id": 6,
+      "name": "Grape",
+      "description": "Small, round fruit available in various colors, often used to make wine.",
+      "price": 0.3,
+      "kg": 0.5
+    },
+    {
+      "id": 7,
+      "name": "Pineapple",
+      "description": "A tropical fruit with a spiky exterior and sweet yellow flesh.",
+      "price": 1.5,
+      "kg": 1.2
+    },
+    {
+      "id": 8,
+      "name": "Strawberry",
+      "description": "A small, red, and juicy fruit often used in desserts.",
+      "price": 0.8,
+      "kg": 0.3
+    },
+    {
+      "id": 9,
+      "name": "Kiwi",
+      "description": "A small, green fruit with a fuzzy brown exterior and sweet green flesh.",
+      "price": 0.9,
+      "kg": 0.4
+    },
+    {
+      "id": 10,
+      "name": "Peach",
+      "description": "A soft and juicy fruit with a velvety skin.",
+      "price": 1.0,
+      "kg": 0.6
+    },
+    {
+      "id": 11,
+      "name": "Pear",
+      "description": "A sweet and juicy fruit with a smooth texture.",
+      "price": 0.85,
+      "kg": 0.7
+    },
+    {
+      "id": 12,
+      "name": "Plum",
+      "description": "A small and sweet fruit with a smooth skin and juicy flesh.",
+      "price": 0.7,
+      "kg": 0.5
+    },
+    {
+      "id": 13,
+      "name": "Cherry",
+      "description": "A small, round fruit with a red or black color and a sweet or tart taste.",
+      "price": 0.75,
+      "kg": 0.2
+    },
+    {
+      "id": 14,
+      "name": "Lemon",
+      "description": "A sour and tangy fruit often used for its juice and zest.",
+      "price": 0.4,
+      "kg": 0.3
+    },
+    {
+      "id": 15,
+      "name": "Lime",
+      "description": "A small, green fruit with a sour and refreshing taste.",
+      "price": 0.45,
+      "kg": 0.3
+    },
+    {
+      "id": 16,
+      "name": "Raspberry",
+      "description": "A small and juicy fruit with a red or black color and a sweet-tart flavor.",
+      "price": 1.1,
+      "kg": 0.3
+    },
+    {
+      "id": 17,
+      "name": "Blueberry",
+      "description": "A small and round fruit with a blue-purple color and a sweet taste.",
+      "price": 1.05,
+      "kg": 0.2
+    },
+    {
+      "id": 18,
+      "name": "Blackberry",
+      "description": "A small and dark purple fruit with a sweet and slightly tart taste.",
+      "price": 1.2,
+      "kg": 0.3
+    },
+    {
+      "id": 19,
+      "name": "Cranberry",
+      "description": "A small and red fruit often used in juices and sauces.",
+      "price": 0.55,
+      "kg": 0.4
+    },
+    {
+      "id": 20,
+      "name": "Coconut",
+      "description": "A large and brown fruit with a hard shell and sweet white flesh.",
+      "price": 1.75,
+      "kg": 1.8
+    },
+    {
+      "id": 21,
+      "name": "Papaya",
+      "description": "A tropical fruit with a soft orange flesh and black seeds.",
+      "price": 1.3,
+      "kg": 1.0
+    },
+    {
+      "id": 22,
+      "name": "Guava",
+      "description": "A tropical fruit with a green or pink exterior and a sweet taste.",
+      "price": 1.2,
+      "kg": 0.6
+    },
+    {
+      "id": 23,
+      "name": "Fig",
+      "description": "A small and pear-shaped fruit with a sweet and chewy flesh.",
+      "price": 1.1,
+      "kg": 0.4
+    },
+    {
+      "id": 24,
+      "name": "Apricot",
+      "description": "A small and yellow-orange fruit with a sweet and tart flavor.",
+      "price": 0.95,
+      "kg": 0.5
+    },
+    {
+      "id": 25,
+      "name": "Avocado",
+      "description": "A green and creamy fruit often used in salads and spreads.",
+      "price": 1.5,
+      "kg": 0.8
+    },
+    {
+      "id": 26,
+      "name": "Cantaloupe",
+      "description": "A large and sweet melon with an orange flesh.",
+      "price": 1.2,
+      "kg": 2.5
+    },
+    {
+      "id": 27,
+      "name": "Honeydew",
+      "description": "A round and sweet melon with a pale green flesh.",
+      "price": 1.1,
+      "kg": 2.0
+    },
+    {
+      "id": 28,
+      "name": "Pomegranate",
+      "description": "A round and red fruit with juicy arils inside.",
+      "price": 1.4,
+      "kg": 0.6
+    },
+    {
+      "id": 29,
+      "name": "Grapefruit",
+      "description": "A citrus fruit with a pink or red flesh and a tangy taste.",
+      "price": 0.7,
+      "kg": 0.7
+    },
+    {
+      "id": 30,
+      "name": "Passion fruit",
+      "description": "A small and purple fruit with a sweet and tart flavor.",
+      "price": 1.25,
+      "kg": 0.3
+    },
+    {
+      "id": 31,
+      "name": "Dragon fruit",
+      "description": "A tropical fruit with a bright pink or white flesh and black seeds.",
+      "price": 1.6,
+      "kg": 0.8
+    },
+    {
+      "id": 32,
+      "name": "Lychee",
+      "description": "A small and translucent fruit with a sweet and floral taste.",
+      "price": 1.3,
+      "kg": 0.4
+    },
+    {
+      "id": 33,
+      "name": "Starfruit",
+      "description": "A fruit with a star-shaped cross-section and a sweet-tart taste.",
+      "price": 1.1,
+      "kg": 0.3
+    },
+    {
+      "id": 34,
+      "name": "Jackfruit",
+      "description": "A large and tropical fruit with a sweet and musky flavor.",
+      "price": 1.7,
+      "kg": 3.0
+    },
+    {
+      "id": 35,
+      "name": "Persimmon",
+      "description": "A fruit with a sweet and tangy taste and a smooth skin.",
+      "price": 1.2,
+      "kg": 0.5
+    },
+    {
+      "id": 36,
+      "name": "Mulberry",
+      "description": "A small and dark purple fruit with a sweet and juicy flavor.",
+      "price": 0.9,
+      "kg": 0.3
+    },
+    {
+      "id": 37,
+      "name": "Tangerine",
+      "description": "A small and citrus fruit with a bright orange color.",
+      "price": 0.55,
+      "kg": 0.4
+    },
+    {
+      "id": 38,
+      "name": "Nectarine",
+      "description": "A sweet and juicy fruit with a smooth skin similar to a peach.",
+      "price": 1.1,
+      "kg": 0.6
+    },
+    {
+      "id": 39,
+      "name": "Blackcurrant",
+      "description": "A small and dark purple fruit with a rich and tangy taste.",
+      "price": 1.0,
+      "kg": 0.2
+    },
+    {
+      "id": 40,
+      "name": "Gooseberry",
+      "description": "A small and green fruit with a tart and tangy flavor.",
+      "price": 0.85,
+      "kg": 0.3
+    },
+    {
+      "id": 41,
+      "name": "Boysenberry",
+      "description": "A large and dark purple fruit with a sweet and tangy flavor.",
+      "price": 1.25,
+      "kg": 0.4
+    },
+    {
+      "id": 42,
+      "name": "Elderberry",
+      "description": "A small and dark purple fruit often used in jams and syrups.",
+      "price": 1.0,
+      "kg": 0.3
+    },
+    {
+      "id": 43,
+      "name": "Pawpaw",
+      "description": "A tropical fruit with a sweet and custard-like flesh.",
+      "price": 1.35,
+      "kg": 1.2
+    },
+    {
+      "id": 44,
+      "name": "Quince",
+      "description": "A yellow and fragrant fruit often used in cooking.",
+      "price": 0.95,
+      "kg": 0.5
+    },
+    {
+      "id": 45,
+      "name": "Clementine",
+      "description": "A small and sweet citrus fruit with an easy-to-peel skin.",
+      "price": 0.65,
+      "kg": 0.3
+    },
+    {
+      "id": 46,
+      "name": "Kiwifruit",
+      "description": "A small and green fruit with a fuzzy brown exterior and a sweet-tart flavor.",
+      "price": 0.85,
+      "kg": 0.4
+    },
+    {
+      "id": 47,
+      "name": "Plantain",
+      "description": "A starchy and green fruit often used for cooking.",
+      "price": 0.7,
+      "kg": 0.6
+    },
+    {
+      "id": 48,
+      "name": "Tamarind",
+      "description": "A brown and pod-like fruit with a sweet and sour taste.",
+      "price": 1.1,
+      "kg": 0.4
+    },
+    {
+      "id": 49,
+      "name": "Breadfruit",
+      "description": "A large and starchy fruit often used in Caribbean cuisine.",
+      "price": 1.0,
+      "kg": 1.0
+    },
+    {
+      "id": 50,
+      "name": "Ackee",
+      "description": "A tropical fruit with a red exterior and a unique taste.",
+      "price": 1.4,
+      "kg": 0.8
+    },
+    {
+      "id": 51,
+      "name": "Longan",
+      "description": "A small and translucent fruit with a sweet and musky flavor.",
+      "price": 1.15,
+      "kg": 0.4
+    },
+    {
+      "id": 52,
+      "name": "Rambutan",
+      "description": "A small and hairy fruit with a sweet and juicy taste.",
+      "price": 1.3,
+      "kg": 0.5
+    },
+    {
+      "id": 53,
+      "name": "Loquat",
+      "description": "A small and orange fruit with a sweet and tangy taste.",
+      "price": 1.1,
+      "kg": 0.3
+    },
+    {
+      "id": 54,
+      "name": "Carambola",
+      "description": "A fruit with a star-shaped cross-section and a sweet-tart taste.",
+      "price": 1.2,
+      "kg": 0.4
+    },
+    {
+      "id": 55,
+      "name": "Cherimoya",
+      "description": "A tropical fruit with a green and scaly exterior and a sweet and creamy flesh.",
+      "price": 2.0,
+      "kg": 0.7
+    },
+    {
+      "id": 56,
+      "name": "Feijoa",
+      "description": "A green and egg-shaped fruit with a sweet and tangy flavor.",
+      "price": 1.1,
+      "kg": 0.4
+    },
+    {
+      "id": 57,
+      "name": "Soursop",
+      "description": "A large and green fruit with a sweet and creamy flesh.",
+      "price": 1.8,
+      "kg": 1.5
+    },
+    {
+      "id": 58,
+      "name": "Cranberry",
+      "description": "A small and red fruit often used in juices and sauces.",
+      "price": 0.55,
+      "kg": 0.3
+    },
+    {
+      "id": 59,
+      "name": "Acai berry",
+      "description": "A small and dark purple fruit often used in smoothie bowls.",
+      "price": 1.5,
+      "kg": 0.4
+    },
+    {
+      "id": 60,
+      "name": "Cloudberry",
+      "description": "A small and orange fruit often found in the Arctic.",
+      "price": 2.5,
+      "kg": 0.2
+    },
+    {
+      "id": 61,
+      "name": "Rowanberry",
+      "description": "A small and red fruit often used in jams and jellies.",
+      "price": 1.2,
+      "kg": 0.3
+    },
+    {
+      "id": 62,
+      "name": "Lingonberry",
+      "description": "A small and red fruit often used in Scandinavian cuisine.",
+      "price": 1.1,
+      "kg": 0.3
+    },
+    {
+      "id": 63,
+      "name": "Marionberry",
+      "description": "A type of blackberry with a sweet and tart flavor.",
+      "price": 1.25,
+      "kg": 0.4
+    },
+    {
+      "id": 64,
+      "name": "Loganberry",
+      "description": "A cross between a raspberry and a blackberry.",
+      "price": 1.2,
+      "kg": 0.4
+    },
+    {
+      "id": 65,
+      "name": "Damson",
+      "description": "A small and dark purple fruit often used for making jams.",
+      "price": 1.0,
+      "kg": 0.4
+    },
+    {
+      "id": 66,
+      "name": "Ugli fruit",
+      "description": "A citrus fruit with a wrinkled and rough exterior.",
+      "price": 1.1,
+      "kg": 0.5
+    },
+    {
+      "id": 67,
+      "name": "Pepino melon",
+      "description": "A fruit with a yellow exterior and a sweet and mild taste.",
+      "price": 1.3,
+      "kg": 0.5
+    },
+    {
+      "id": 68,
+      "name": "Goji berry",
+      "description": "A small and red fruit often used in herbal medicine.",
+      "price": 1.5,
+      "kg": 0.2
+    },
+    {
+      "id": 69,
+      "name": "Jabuticaba",
+      "description": "A dark purple fruit that grows directly on the tree trunk.",
+      "price": 2.2,
+      "kg": 0.3
+    },
+    {
+      "id": 70,
+      "name": "Jujube",
+      "description": "A small and red fruit with a sweet and chewy flesh.",
+      "price": 1.1,
+      "kg": 0.4
+    },
+    {
+      "id": 71,
+      "name": "Durian",
+      "description": "A large and spiky fruit with a strong and unique smell.",
+      "price": 2.5,
+      "kg": 3.5
+    },
+    {
+      "id": 72,
+      "name": "Breadnut",
+      "description": "A starchy fruit similar to breadfruit often used in Caribbean cuisine.",
+      "price": 1.0,
+      "kg": 1.2
+    },
+    {
+      "id": 73,
+      "name": "Salak",
+      "description": "A small and reddish-brown fruit with a sweet and tangy flavor.",
+      "price": 1.3,
+      "kg": 0.4
+    },
+    {
+      "id": 74,
+      "name": "Physalis",
+      "description": "A small and orange fruit often used in desserts and salads.",
+      "price": 1.2,
+      "kg": 0.3
+    },
+    {
+      "id": 75,
+      "name": "Mangosteen",
+      "description": "A tropical fruit with a thick purple rind and sweet white segments.",
+      "price": 2.0,
+      "kg": 0.8
+    },
+    {
+      "id": 76,
+      "name": "Kiwano (African horned cucumber)",
+      "description": "A fruit with a spiky orange exterior and a green jelly-like interior.",
+      "price": 1.5,
+      "kg": 0.5
+    },
+    {
+      "id": 77,
+      "name": "Monstera deliciosa (Swiss cheese plant fruit)",
+      "description": "A tropical fruit with a unique and tropical flavor.",
+      "price": 1.8,
+      "kg": 0.6
+    },
+    {
+      "id": 78,
+      "name": "Prickly pear",
+      "description": "A fruit with a spiky exterior and a sweet and juicy flesh.",
+      "price": 1.2,
+      "kg": 0.5
+    },
+    {
+      "id": 79,
+      "name": "Guanabana (Soursop)",
+      "description": "A large and green fruit with a sweet and creamy flesh.",
+      "price": 2.2,
+      "kg": 1.0
+    },
+    {
+      "id": 80,
+      "name": "Sour cherry",
+      "description": "A small and tart cherry often used in pies and preserves.",
+      "price": 1.1,
+      "kg": 0.3
+    },
+    {
+      "id": 81,
+      "name": "Cornelian cherry",
+      "description": "A small and red fruit often used in jams and syrups.",
+      "price": 1.0,
+      "kg": 0.3
+    },
+    {
+      "id": 82,
+      "name": "Akebia fruit",
+      "description": "A fruit with a purple exterior and a sweet and fragrant taste.",
+      "price": 1.25,
+      "kg": 0.4
+    },
+    {
+      "id": 83,
+      "name": "Babaco",
+      "description": "A green and oblong fruit with a sweet and tropical flavor.",
+      "price": 1.4,
+      "kg": 0.6
+    },
+    {
+      "id": 84,
+      "name": "Cape gooseberry",
+      "description": "A small and orange fruit with a sweet and tangy taste.",
+      "price": 1.1,
+      "kg": 0.3
+    },
+    {
+      "id": 85,
+      "name": "Finger lime",
+      "description": "A small and elongated fruit with caviar-like juice vesicles.",
+      "price": 1.6,
+      "kg": 0.2
+    },
+    {
+      "id": 86,
+      "name": "Persimmon",
+      "description": "A fruit with a sweet and tangy taste and a smooth skin.",
+      "price": 1.2,
+      "kg": 0.5
+    },
+    {
+      "id": 87,
+      "name": "Buddha's hand",
+      "description": "A unique and finger-like citrus fruit often used for its zest.",
+      "price": 1.4,
+      "kg": 0.3
+    },
+    {
+      "id": 88,
+      "name": "Juneberry",
+      "description": "A small and purple fruit with a sweet and nutty flavor.",
+      "price": 1.1,
+      "kg": 0.4
+    },
+    {
+      "id": 89,
+      "name": "Jambul (Jamun)",
+      "description": "A small and dark purple fruit with a sweet and tangy taste.",
+      "price": 0.95,
+      "kg": 0.3
+    },
+    {
+      "id": 90,
+      "name": "Tangelo",
+      "description": "A hybrid fruit between a tangerine and a grapefruit.",
+      "price": 0.9,
+      "kg": 0.5
+    },
+    {
+      "id": 91,
+      "name": "Saskatoon berry",
+      "description": "A small and purple fruit with a sweet and nutty flavor.",
+      "price": 1.15,
+      "kg": 0.4
+    },
+    {
+      "id": 92,
+      "name": "Redcurrant",
+      "description": "A small and red fruit often used in jams and desserts.",
+      "price": 0.8,
+      "kg": 0.3
+    },
+    {
+      "id": 93,
+      "name": "Yellow passion fruit",
+      "description": "A small and yellow fruit with a sweet and tangy taste.",
+      "price": 1.25,
+      "kg": 0.2
+    },
+    {
+      "id": 94,
+      "name": "Black sapote (Chocolate pudding fruit)",
+      "description": "A fruit with a green or black exterior and a custard-like flesh.",
+      "price": 1.7,
+      "kg": 0.6
+    },
+    {
+      "id": 95,
+      "name": "Miracle fruit",
+      "description": "A berry that temporarily alters taste perception, making sour foods taste sweet.",
+      "price": 1.8,
+      "kg": 0.1
+    },
+    {
+      "id": 96,
+      "name": "White mulberry",
+      "description": "A small and sweet fruit often used in jams and desserts.",
+      "price": 0.95,
+      "kg": 0.4
+    },
+    {
+      "id": 97,
+      "name": "White sapote",
+      "description": "A fruit with a green or yellow exterior and a sweet and creamy flesh.",
+      "price": 1.2,
+      "kg": 0.5
+    },
+    {
+      "id": 98,
+      "name": "Hog plum",
+      "description": "A small and yellow fruit with a sweet and tangy taste.",
+      "price": 0.9,
+      "kg": 0.4
+    },
+    {
+      "id": 99,
+      "name": "Mamey sapote",
+      "description": "A large and brown fruit with a sweet and creamy flesh.",
+      "price": 2.1,
+      "kg": 0.8
+    },
+    {
+      "id": 100,
+      "name": "African Mango",
+      "description": "A tropical fruit with a sweet and juicy flesh.",
+      "price": 1.75,
+      "kg": 0.6
+    }
+  ]
+}
